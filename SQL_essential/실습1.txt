@@ -1,0 +1,13 @@
+(角嚼) (http://url.kr/aeuvjp)
+1.Database 积己 -> w3schoolDB
+2.W3schoolDB俊 Table 积己
+  - customers
+      customerid
+      customername
+      contactname
+      address
+      city
+      postalcode
+3. insert 3扒
+      country
+
